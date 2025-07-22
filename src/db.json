@@ -1,0 +1,23 @@
+{
+ 
+  "inscricoes": [
+    {
+      "id": "0af2",
+      "nome": "deivid luiz",
+      "email": "pdeividluiz@gmail.com",
+      "genero": "Masculino",
+      "curso": "Git e GitHub",
+      "descricao": "1",
+      "termos": true
+    },
+    {
+      "id": "7fd8",
+      "nome": "deivid luizd2",
+      "email": "mateuspaulocostapereira@gmail.com",
+      "genero": "Masculino",
+      "curso": "JavaScript",
+      "descricao": "2",
+      "termos": true
+    }
+  ]
+}
